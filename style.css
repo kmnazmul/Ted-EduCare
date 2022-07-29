@@ -1,3 +1,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+@media only screen and (max-width: 575.98px) {
+    .bg-dark>img {
+      height: 455px;
+    }
+  }
+
